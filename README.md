@@ -11,7 +11,6 @@ In my free time, I like to go to the mountains 🏔️ and snowboard 🏂, watch
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcovoliveira)](https://www.linkedin.com/in/marcovoliveira/)
 
-<br />
 
 ---
 
