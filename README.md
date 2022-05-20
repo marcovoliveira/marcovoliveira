@@ -59,4 +59,5 @@ In my free time, I like to go to the mountains 🏔️ and snowboard 🏂, watch
   
 <br />
 
+### Now Playing 🎧
 [![Spotify](https://spotifyplaying-drab.vercel.app/api/spotify/?background_color=0e1116&border_color=ffffff)](https://open.spotify.com/user/45j11jggn0ohmfog3d5t6acsr)
