@@ -5,7 +5,7 @@
 - 📚 I have an MSc degree in Software Engineering and Mobile Computing.
 - 🔭 I'm passionate about challenging projects and teamwork. 
 
-In my free time, I like to go to the mountains 🏔️ and snowboard 🏂, watch movies 🎞️, series 📺, read books 📚, and hanging out with friends.
+In my free time, I like to go to the mountains 🏔️ and snowboard 🏂, watch movies, series 📺, read books 📚, and hanging out with friends.
 
 ### Would you like to find me 💬 ? 
 
