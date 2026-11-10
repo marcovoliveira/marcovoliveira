@@ -1,4 +1,4 @@
-**Software Engineer** · <a href="https://www.linkedin.com/in/marcovoliveira/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn" align="middle" /></a>
+**Software Engineer** · <a href="https://www.linkedin.com/in/marcovoliveira/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn" align="absmiddle" /></a>
 
 ## Open source
 
