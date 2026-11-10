@@ -1,6 +1,4 @@
-# Marco Veríssimo Oliveira
-
-**Software Engineer** · [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/marcovoliveira/)
+**Software Engineer** · <a href="https://www.linkedin.com/in/marcovoliveira/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn" align="middle" /></a>
 
 ## Open source
 
